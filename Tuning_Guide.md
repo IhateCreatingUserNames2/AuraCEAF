@@ -165,6 +165,9 @@ if prediction_error_signal > threshold:
 
 ### VRE (Value Resonance Engine)
 
+CHECK .env to enable/disable VRE: VRE_DISABLED=true 
+Default value is VRE disabled. 
+
 **What:** The ethical superego. Verifies responses before output.
 
 **Adjust Principle Weights** (`ethical_governance.py`):
