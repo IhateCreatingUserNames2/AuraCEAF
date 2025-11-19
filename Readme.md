@@ -4,12 +4,12 @@
 
 ## 📋 Table of Contents
 
-1. [Quick Start](#quick-start)
-2. [Architecture Overview](#architecture-overview)
-3. [Core Modules](#core-modules)
-4. [API](#api)
-5. [Development Tools](#development-tools)
-6. [WhatsApp Integration](#whatsapp-integration)
+1. [Quick Start](#-quick-start)
+2. [Architecture Overview](#-architecture-overview)
+3. [Core Modules](#-core-modules)
+4. [API](#-api)
+5. [Development Tools](#-development-tools)
+6. [WhatsApp Integration](#-whatsapp-integration)
 7. Tuning Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Tuning_Guide.md
 8. Visualization Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Vizualization.md
 
