@@ -183,21 +183,14 @@ Graphical logs provide real-time insight into agent cognition, emotions, and lea
 python scripts/analyze_sqlite.py --agent-id YOUR_AGENT_ID
 ```
 
-Generates graphs 1-3 automatically from `turn_history` table.
+Generates graph 5  automatically from `turn_history` table.
 
 ### From Evolution Log:
 ```bash
 python scripts/analyze_evolution.py --agent-id YOUR_AGENT_ID
 ```
 
-Generates graph 4 from `evolution_log.jsonl`.
-
-### Patient Chart (Composite):
-```bash
-python scripts/generate_patient_chart.py --agent-id YOUR_AGENT_ID
-```
-
-Merges all metrics into holistic view (graph 5).
+Generates graph 1~4 from `evolution_log.jsonl`.
 
 ---
 
