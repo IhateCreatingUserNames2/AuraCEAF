@@ -175,7 +175,6 @@ See `requirements.txt` for full list. Key packages:
 
 ## ⚠️ Notes
 
-- **Google ADK:** If used, install separately or include locally
 - **Directories:** Auto-created on first run (`agent_data/`, `logs/`, etc.)
 - **Environment:** Use `.env.example` as template
 
