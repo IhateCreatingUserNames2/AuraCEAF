@@ -160,6 +160,9 @@ WHATSAPP_PHONE_NUMBER_ID=your_phone_id
 WHATSAPP_VERIFY_TOKEN=your_verify_token
 ```
 
+CHECK THE DB FILE PATH IN db_SETUP.py 
+
+"" DATABASE_URL = "sqlite:////home/ubuntu/Ceaf/aura_agents_v3.db""  
 Run:
 ```bash
 python whatsapp_bridge/bridge_main.py
