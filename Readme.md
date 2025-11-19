@@ -15,6 +15,7 @@ Online Demo: https://cognai.space/ceaf
 6. [WhatsApp Integration](#-whatsapp-integration)
 7. Tuning Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Tuning_Guide.md
 8. Visualization Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Vizualization.md
+9. Read About the Challenges in Tuning CEAF: https://github.com/IhateCreatingUserNames2/Aura_CEAFv3/blob/main/Challenges.md 
 
 ## 🚀 Quick Start
 
