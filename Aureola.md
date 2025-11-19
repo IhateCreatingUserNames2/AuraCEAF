@@ -1,3 +1,5 @@
+Aureola is a specialized "Social Copilot" implementation running within the CEAF architecture. Unlike standard agents that converse with you, Aureola is designed to observe, analyze, and map social dynamics from conversations it "hears" (via transcription).
+
 Here is the explanation of how Aureola functions across the different components of the system:
 
 ### 1. API Layer (`api/routes.py`)
