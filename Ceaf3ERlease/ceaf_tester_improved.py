@@ -12,8 +12,8 @@ import uuid
 # --- Configuration ---
 CONFIG = {
     "AURA_API_URL": "https://cognai.space/ceaf",
-    "AURA_USERNAME": "admin11",
-    "AURA_PASSWORD": "admin",
+    "AURA_USERNAME": "username",
+    "AURA_PASSWORD": "password",
     "TARGET_AGENT_ID": "a25e8336-2968-4d31-9121-bcd97e14c6a4",
     "MAX_TURNS": 10,
     "TESTER_BOT_MODEL": "openrouter/openrouter/sherlock-dash-alpha",
@@ -229,4 +229,5 @@ if __name__ == "__main__":
     elif not os.getenv("OPENROUTER_API_KEY"):
         print("❌ Error: OPENROUTER_API_KEY is not set in your .env file.")
     else:
+
         asyncio.run(run_test_session(CONFIG))
