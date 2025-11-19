@@ -2,6 +2,9 @@
 
 **Aura CEAF** is an advanced cognitive architecture for AI designed to create agents with continuous identity, dynamic internal states, and principled reasoning. It implements Agency, Metacognition, Associative Memory (MBS), and Ethical Governance (VRE).
 
+
+Online Demo: https://cognai.space/ceaf
+
 ## 📋 Table of Contents
 
 1. [Quick Start](#-quick-start)
