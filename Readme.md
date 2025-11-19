@@ -10,6 +10,7 @@
 4. [API](#api)
 5. [Development Tools](#development-tools)
 6. [WhatsApp Integration](#whatsapp-integration)
+7. Tuning Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Tuning_Guide.md 
 
 ## 🚀 Quick Start
 
