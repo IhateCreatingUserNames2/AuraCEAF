@@ -21,6 +21,7 @@
 ### Installation
 
 ```bash
+git clone https://github.com/IhateCreatingUserNames2/AuraCEAF/tree/main/Ceaf3ERlease
 pip install -r requirements.txt
 ```
 
