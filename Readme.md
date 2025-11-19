@@ -102,7 +102,7 @@ Content-Type: application/json
 {"message": "Hello"}
 ```
 
-### Ingest Transcription (Aureola)
+### Ingest Transcription (Aureola) _ Not Fully Implemented ( READ MORE: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Aureola.md ) 
 ```bash
 POST /agents/{id}/ingest/transcription
 Content-Type: application/json
