@@ -10,7 +10,8 @@
 4. [API](#api)
 5. [Development Tools](#development-tools)
 6. [WhatsApp Integration](#whatsapp-integration)
-7. Tuning Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Tuning_Guide.md 
+7. Tuning Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Tuning_Guide.md
+8. Visualization Guide: https://github.com/IhateCreatingUserNames2/AuraCEAF/blob/main/Vizualization.md
 
 ## 🚀 Quick Start
 
@@ -179,14 +180,6 @@ See `requirements.txt` for full list. Key packages:
 - **Environment:** Use `.env.example` as template
 
 ---
-
-## Sample of Graphical Logs
-<img width="2022" height="1378" alt="mariana_patient_chart" src="https://github.com/user-attachments/assets/e74a4901-bf99-4bb2-8b61-a2a108caae01" />
-
-<img width="1500" height="700" alt="1_agency_confidence_evolution" src="https://github.com/user-attachments/assets/64ec7c1a-7f9f-43e3-b16f-a42c5358116c" />
-<img width="1500" height="700" alt="2_mcl_biases_dynamics" src="https://github.com/user-attachments/assets/c5d897c1-4c5d-46b9-8d8e-7128ed051a83" />
-<img width="1500" height="700" alt="3_virtual_body_state" src="https://github.com/user-attachments/assets/61150290-0bea-46c5-9921-386361d1b1ce" />
-<img width="1500" height="700" alt="4_identity_evolution" src="https://github.com/user-attachments/assets/885fbba1-d44e-4712-b065-f5c3dac61edf" />
 
 
 **License:** Soon
