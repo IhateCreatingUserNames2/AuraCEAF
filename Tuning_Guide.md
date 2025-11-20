@@ -1,6 +1,6 @@
 # ⚙️ CEAF V3 Tuning Guide
 
-This guide explains how to adjust agent behavior, intelligence, and internal states through core module configurations.
+This guide explains how to adjust agent behavior, intelligence, and internal states through core module configurations, provider.
 
 
 
