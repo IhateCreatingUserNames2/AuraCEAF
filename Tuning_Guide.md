@@ -2,12 +2,6 @@
 
 This guide explains how to adjust agent behavior, intelligence, and internal states through core module configurations.
 
-## 1. Agency Module - Future Simulation
-
-**File:** `ceaf_core/agency_module.py`
-
-The Agency Module is the prefrontal cortex—it decides what to do before acting. By default, `simulation_depth` is 0 everywhere, meaning the agent doesn't simulate consequences.
-
 
 
 ### Adjust LLM PROVIDER
@@ -24,6 +18,15 @@ LLM_MODEL_FAST = "openrouter/x-ai/grok-4.1-fast"
 LLM_MODEL_SIMULATION = "openrouter/x-ai/grok-4.1-fast"
 LLM_MODEL_SMART = "openrouter/x-ai/grok-4.1-fast" 
 ```
+
+
+
+## 1. Agency Module - Future Simulation
+
+**File:** `ceaf_core/agency_module.py`
+
+The Agency Module is the prefrontal cortex—it decides what to do before acting. By default, `simulation_depth` is 0 everywhere, meaning the agent doesn't simulate consequences.
+
 
 
 ### Adjust Deliberation Tiers
