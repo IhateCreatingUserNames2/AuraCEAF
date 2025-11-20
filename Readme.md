@@ -42,6 +42,9 @@ OPENROUTER_API_KEY=your_api_key
 JWT_SECRET_KEY=your_secret_key
 ```
 
+Hardware: 32~64GB Ram, High end CPU. 
+
+
 ### Run
 
 ```bash
