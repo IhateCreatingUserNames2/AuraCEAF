@@ -8,6 +8,24 @@ This guide explains how to adjust agent behavior, intelligence, and internal sta
 
 The Agency Module is the prefrontal cortex—it decides what to do before acting. By default, `simulation_depth` is 0 everywhere, meaning the agent doesn't simulate consequences.
 
+
+
+### Adjust LLM PROVIDER
+
+-- Go to Ceaf/core/services/llm_service.py 
+
+
+```python 
+litellm.api_key = os.getenv("OPENROUTER_API_KEY")
+litellm.api_base = "https://openrouter.ai/api/v1"
+
+# LiteLLM Provider - Default OpenRouter. 
+LLM_MODEL_FAST = "openrouter/x-ai/grok-4.1-fast"
+LLM_MODEL_SIMULATION = "openrouter/x-ai/grok-4.1-fast"
+LLM_MODEL_SMART = "openrouter/x-ai/grok-4.1-fast" 
+```
+
+
 ### Adjust Deliberation Tiers
 
 ```python
