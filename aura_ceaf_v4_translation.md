@@ -62,7 +62,8 @@ All logic engines were updated to stop using global constants and start obeying 
 
 **Evolution (Twerking)**: The user adjusts a slider on the frontend → API receives the JSON → CEAFSystem does Hot Reload → The behavior changes instantly on the next message.
 
-## 🧪 How to Test (A/B/C Strategy)
+<img width="444" height="841" alt="image" src="https://github.com/user-attachments/assets/b134c23a-397f-442b-9fc7-6fe88829285c" />
+
 
 It's now possible to create clones of the same agent with distinct profiles to measure impact:
 
